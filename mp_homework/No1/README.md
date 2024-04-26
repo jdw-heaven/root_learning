@@ -18,7 +18,7 @@ change $ \psi $ to $ \frac{1}{r} $ and $ \frac{1}{r^{\alpha}} $:
 1. $ \begin{aligned} \Delta \frac{1}{r} = 0 \left( r \neq 0 \right) \end{aligned} $
 2. $ \begin{aligned} \Delta \frac{1}{r^{\alpha}} = \frac{\alpha \left(\alpha-1\right)}{r^{\alpha+2}} \left( r \neq 0 \right) \end{aligned} $
 
-Then, we'll calculate them when r = 0, we calculate $ \Delta \frac{1}{r^{\alpha}} $ and when $ \alpha  = 1 $, it's $ \Delta \frac{1}{r} $.
+Then, we'll calculate when r = 0, $ \Delta \frac{1}{r}$ is what.
 
 $$
 \begin{aligned}
@@ -36,7 +36,7 @@ $$
 
 so$\begin{aligned} \Delta \frac{1}{r} = -4\pi \delta\left(\mathbf{r}\right) \end{aligned}$,as $\Delta \frac{1}{r} = 0 $, when $r \neq 0 $.
 
-But for others, the integral can be divided into two parts: $0 \rightarrow a, a \rightarrow \infty \left(a \rightarrow 0 \right) $. When $\alpha \neq 0 or 1 $, the notation of the answers is different, but they're all infinity. So the question may not be defined till now.
+But for others, the intergral is diverge.
 
 ### question 2
 we have three vectors: 
